@@ -1,0 +1,6 @@
+﻿    body { font-family:Arial, Sans-Serif; margin:0px !important}
+    #flimages img { padding:5px; margin:10px; border:none; height:75px; width:100px;}
+    #enlImage { height:240px; width:240px;margin:auto; clear:both; background-repeat:no-repeat; background-position:center}
+    #enlDesc { height:20px; margin:auto;font-weight:bold }
+    #enlLink {height:20px; margin:auto; clear:both}
+    p {text-align:center}
